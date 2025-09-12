@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm Nebula-Node</h1>
+Hi 👋, I'm Nebula-Node</h1>
 <h3 align="center">A passionate fullstack developer and a computer engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nebula-node&label=Profile%20views&color=0e75b6&style=flat" alt="nebula-node" /> </p>
