@@ -1,5 +1,5 @@
 
-<h1 align="center">⚡ Maxwewll Kantai (MK) ⚡</h1>
+<h1 align="center">⚡ Maxwell Kantai (MK) ⚡</h1>
 <p align="center">
   <b>System Engineer | OS Developer | Cybersecurity Researcher | Blockchain Builder</b>  
 </p>
